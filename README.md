@@ -1,4 +1,4 @@
-This a insurance web project co developed by Chen Dong and Yingli Chen from New York University.
+This an insurance web project co developed by Chen Dong and Yingli Chen from New York University.
 Our application focuses on collecting users’ information and then applying our machine learning algorithms to analyze it. Then, we adjust our price based on the results of our machine learning algorithms. That is to say, users can interact with our application which shows an End to End architecture. 
 
 # How to run it
